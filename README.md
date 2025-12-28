@@ -15,7 +15,8 @@
    - если число не входит в промежуток от 1 до 7, то выводится: "День недели не определён"
 7. Конец
 ## Блок-схема(исправленная)
-   <img width="429" height="1140" alt="Лабораторная работа 7 исправление drawio" src="https://github.com/user-attachments/assets/b92532aa-55d1-4aa4-ad49-30c3c1facb05" />
+  <img width="429" height="1171" alt="аааа" src="https://github.com/user-attachments/assets/9ff22439-7184-4ccb-ba28-5be42c771c53" />
+
 
    
 ### Результат работы программы
